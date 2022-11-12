@@ -1,6 +1,8 @@
 # tictactoe
 ## Single player version of tictactoe
-A simple c++ implementation of Tic Tac Toe with the minimax algorithm. **Modified from `https://github.com/Chaoskira/tictactoe-minimax`**
+A simple c++ implementation of Tic Tac Toe with the minimax algorithm. 
+
+**Modified from `https://github.com/Chaoskira/tictactoe-minimax`**
 
 compile:
 ```shell
@@ -13,6 +15,8 @@ run:
 ```
 
 ## Two players version of tictactoe
+**Realization in myself!!**
+
 one player is client, another is server
 
 ### Server
